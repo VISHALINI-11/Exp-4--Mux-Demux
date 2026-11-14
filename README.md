@@ -20,7 +20,7 @@ Boolean Functions
 ## **Testbench Program
 
 
-
+```
 ## Truth Table
 
 ### 2:1 Multiplexer
@@ -84,8 +84,6 @@ The 2:1 Multiplexer and 1:2 Demultiplexer were realized using Verilog HDL:
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 ## Output
-<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/d4ea7fcb-82ae-4bb1-ae1b-e1ab4328c399" />
-<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/5767d132-57a1-40e3-abc3-19fb58e48605" />
 
 
 ## Viva-Voce Questions
